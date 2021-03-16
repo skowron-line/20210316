@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "First product",
+            "category": "Letters",
+            "price": "110 EUR"
+        },
+        {
+            "id": 2,
+            "title": "Second product",
+            "category": "Numbers",
+            "price": "90 EUR"
+        }
+    ]
+}
